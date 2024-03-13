@@ -400,3 +400,385 @@ ls
 cd backend/
 ls
 cat index.js 
+docker ps -a
+docker ps 
+docker-compose up -d
+docker ps 
+docker-compose up -d
+docker ps 
+docker-compose up -d
+docker ps 
+docker logs ec2-user-backend-1
+docker ps 
+docker images
+docker logs 85a81bf29a6b
+cd
+cd frontend/
+ls
+cat Dockerfile 
+cd
+cd backend/
+ls
+cat index.js 
+cat Dockerfile 
+docker ps
+docker ps -a
+docker logs 0dce35ea006b
+npm install express --save
+docker build -t backend-image-01 .
+docker build -t backend-image .
+docker images
+docker rmi backend-image       
+docker 
+docker rmi backend-image-01
+docker images
+docker build -t backend-image .
+docker-compose restart
+docker ps
+docker logs ec2-user-backend-1
+ls
+vi package.json 
+const express = require('express');
+const express = require('express')
+const express = require express
+vi index.js 
+docker build -t backend-image-1 .
+docker-compose restart
+docker ps
+cd
+docker images
+docker rmi 61e73b67fa5c 861404e988c4
+docker images
+docker build -t backend-image .
+cd backend/
+docker build -t backend-image .
+docker-compose restart
+dockerps
+docker ps
+cd
+docker images
+docker tag 861404e988c4 muskan1321/backend-app-image:<tag>
+docker tag 861404e988c4 muskan1321/backend-app-image:latest
+docker push muskan1321/backend-app-image:latest
+docker login
+docker push muskan1321/backend-app-image:latest
+docker images
+docker tag f264d8933634  muskan1321/frontend-app-image:latest
+docker push muskan1321/frontend-app-image:latest
+ls
+sudo yum install git -y
+ls
+mkdir backend-frontend-application
+mv backend  docker-compose.yml  frontend backend-frontend-application/
+ls
+cd backend-frontend-application/
+ls
+git init
+git config --global init.main
+git add .
+git commit -m "first commit" .
+git remote add origin https://github.com/muskan1321/backend-frontend-application.git
+git push -u main
+git push -u master
+ls
+cd ..
+git init
+git config --global init.main
+git add .
+git commit -m "first commit"
+git push 
+git push -u origin main
+git push -u 
+git config --global user.name "muskan1321"
+git config --global user.email "syeda.muskan1321@gmail.com"
+git push -u origin
+git push -u origin master
+git clone https://github.com/muskan1321/backend-frontend-app.git
+ls
+cd backend-frontend-app
+ls
+cd 
+cd backend-frontend-application/
+ls
+mv backend  docker-compose.yml  frontend backend-frontend-app
+pwd
+mv backend  docker-compose.yml  /home/ec2-user/frontend backend-frontend-app
+ls
+mv backend  docker-compose.yml  /home/ec2-user/
+LS
+ls
+cd ..
+ls
+cd backend-frontend-application/
+ls
+mv frontend/  /home/ec2-user/
+ls
+cd ..
+ls
+rm - rf backend-frontend-application/
+sudo rm - rf backend-frontend-application/
+sudo rm -rf backend-frontend-application/
+ls
+mv backend docker-compose.yml  frontend/
+ls
+cd backend-frontend-app/
+ls
+cd ..
+ls
+cd backend-frontend-app/
+ls
+cd ..
+ls
+cd frontend/
+ls
+mv backend docker-compose.yml 
+mv backend docker-compose.yml /home/ec2-user/
+ls
+cd ..
+ls
+mv backend docker-compose.yml frontend/ backend-frontend-app/
+ls
+cd backend-frontend-app/
+ls
+git push
+ls
+cd
+ls
+cd backend-frontend-app/
+ls
+cd
+git add .
+git commit -m "made changes"
+git remote add origin https://github.com/muskan1321/backend-frontend-app.git
+git push -u origin master
+git branches
+sudo git branch
+git push -u origin main
+ls
+cd backend-frontend-app/
+ls
+git push -u origin main
+git pull
+ls
+git push -u origin main
+ls
+cd backend-frontend-app/
+ls
+cat index.txt 
+rm -f index.txt 
+ls
+cd
+ls
+rm -rf backend-frontend-app
+ls
+sudo extundelete /dev/sdX --restore-all
+sudo yum update
+sudo yum install extundelete
+sudo yum install testdisk
+ls
+git clone https://github.com/muskan1321/backend-frontend-app.git
+ls
+cd backend-frontend-app/
+ls
+cat index.txt 
+clear
+ls
+cd
+rm -rf backend-frontend-app
+ls
+clear
+sudo yum update -y
+sudo amazon-linux-extras install docker
+sudo service docker start
+sudo usermod -a -G docker ec2-user
+sudo yum install docker -y
+docker --version
+clear
+docker-compose --version
+clear
+sudo docker login
+mkdir backend-app
+cd backend-app/
+ls
+sudo docker pull muskan1321/backend-image:latest
+sudo docker pull muskan1321/backend-app-image:latest
+docker images
+docker rmi 68f8d1c4e1c8 6818a06af04b  f264d8933634  f264d8933634 4983cbefbc5f
+sudo docker rmi 68f8d1c4e1c8 6818a06af04b  f264d8933634  f264d8933634 4983cbefbc5f
+sudo docker rmi -f 68f8d1c4e1c8 6818a06af04b f264d8933634 f264d8933634 4983cbefbc5f
+docker images
+docker ps
+docker ps -a
+sudo docker rm $(sudo docker ps -aq)
+docker ps -a
+clear
+docker run -d -p 8080:8080 --name my-backend-container backend-app-image
+docker images
+docker run -d -p 8080:8080 --name my-backend-container 861404e988c4 
+docker ps
+cd
+mkdir frontend-app
+cd frontend-app/
+sudo docker pull muskan1321/frontend-app-image:latest
+docker images
+docker run -d -p 3000:3000 --name my-frontend-container f264d8933634
+docker ps
+cd
+clear
+vi docker-compose.yaml
+ls
+docker-compose up -d
+docker images
+vi docker-compose.yaml 
+docker-compose up -d
+vi docker-compose.yaml 
+docker-compose up -d
+sudo netstat -tuln | grep 8080
+docker-compose up -d
+vi docker-compose.yaml 
+docker-compose up -d
+docker ps
+docker ps -a
+docker rm -f a96a82a14324
+docker rm -f eb68051952ff
+docker ps
+docker images
+docker rmi -f 861404e988c4
+docker stop ad5c7456ddf0
+docker rm ad5c7456ddf0
+docker rmi -f 861404e988c4
+clear
+docker ps
+docker images
+ls
+cd backend-app/
+docker pull muskan1321/backend-app-image:latest
+docker images
+docker ps
+docker run -d -p 8080:8080 --name my-backend-container  861404e988c4 
+docker ps
+cd 
+clear
+docker images
+docker ps
+vi docker-compose.yaml 
+docker-compose up -d
+docker-compose ps
+docker-compose down
+docker-compose down -v
+docker ps
+clear
+docker images
+docker rm -f $(docker ps -aq)
+docker rmi -f $(docker images -aq)
+docker images
+docker ps
+docker ps -a
+clear
+ls
+cd backend-app/
+vi Dockerfile
+docker build -t backend-image .
+docker run -d -p 3000:3000 --name backend-container backend-image 
+docker ps
+sudo systemctl start docker
+sudo systemctl enable docker
+docker ps
+docker ps -a
+docker start 1ddc19f77aa3
+docker ps
+docker ps -a
+docker ps
+docker logs 1ddc19f77aa3
+clear
+vi package.json
+vi index.js
+docker images
+docker ps
+docker run -d -p 3000:3000 --name my-backend-container 9603736aeab4
+docker ps
+docker ps -a
+docker rm -f 3a5f5628a9c1 
+docker rmi -f 9603736aeab4
+docker ps -a
+docker start 1ddc19f77aa3
+docker ps
+docker ps -a
+docker logs 1ddc19f77aa3
+ls
+cd backend-app/
+ls
+docker ps -a
+docker rm -f 1ddc19f77aa3
+docker rmi -f 9603736aeab4
+docker ps -a
+docker images
+clear
+docker build -t backend-image .
+docker run -d -p 3000:3000 backend-container backend-image 
+docker images
+docker run -d -p 3000:3000 backend-container 588425ae3690
+docker run -d -p 3000:3000 backend-image
+docker ps
+cd
+ls
+clear
+cd frontend-app/
+npx create-react-app .
+ls
+vi Dockerfile
+docker build -t frontend-image .
+docker run -d -p 8080:8080 frontend-container frontend-image 
+docker run -d -p 8080:8080 frontend-image
+docker ps
+docker status
+docker ps
+docker rm -f 4fcf4b368b70
+docker ps
+docker images
+docker run -d -p 8080:80 cab96cdb1bfe
+docker ps
+ls
+vi docker-compose.yaml 
+clear
+docker images
+docker ps
+ls
+vi docker-compose.yaml 
+docker-compose up -d
+docker ps
+docker images
+clear
+sudo lsof -i :3000
+ls
+vi docker-compose.yaml 
+docker-compose up -d
+vi docker-compose.yaml 
+docker-compose up -d
+docker-compose ps
+ls
+git --version
+git add .
+git commit -m "first commit" .
+git remote add origin https://github.com/muskan1321/backend-frontend-app.git
+rm -f /home/ec2-user/.git/index.lock
+git add .
+git commit -m "Your commit message"
+docker image prune -a
+docker container prune
+git add .
+git commit -m "Your commit message"
+docker image prune -a
+docker container prune
+clear
+git add .
+git commit -m "Your commit message"
+docker ps
+docker rm -f f261e7b5f889
+docker rm -f 210abe4f26d
+docker rmi -f cab96cdb1bfe
+docker ps
+ls
+cd backend-app/
+ls
+vi index.js 

@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  frontend:
+    image: frontend-image
+    ports:
+      - "8888:80"  # Expose port 8080 on the host and map it to port 80 in the container
+    depends_on:
+      - backend  # Specify that the frontend service depends on the backend service
+
+  backend:
+    image: backend-image
+    ports:
+      - "3001:3000"  # Expose port 3000 on the host and map it to port 3000 in the container
+
+
+

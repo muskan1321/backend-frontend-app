@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710249894,,"wq"
+|2,0,1710314086,,"wq"
 :wq!
-|2,0,1710247222,,"wq!"
+|2,0,1710312860,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -27,230 +27,281 @@
 # Registers:
 
 # File marks:
-'0  14  0  ~/backend/index.js
-|4,48,14,0,1710249894,"~/backend/index.js"
-'1  1  0  ~/backend/package.json
-|4,49,1,0,1710249611,"~/backend/package.json"
-'2  1  0  ~/docker-compose.yml
-|4,50,1,0,1710247222,"~/docker-compose.yml"
-'3  1  0  ~/docker-compose.yml
-|4,51,1,0,1710247150,"~/docker-compose.yml"
-'4  6  23  ~/backend/index.js
-|4,52,6,23,1710246709,"~/backend/index.js"
-'5  6  23  ~/backend/index.js
-|4,53,6,23,1710246709,"~/backend/index.js"
-'6  1  0  ~/docker-compose.yml
-|4,54,1,0,1710243968,"~/docker-compose.yml"
-'7  1  0  ~/docker-compose.yml
-|4,55,1,0,1710243968,"~/docker-compose.yml"
-'8  20  17  ~/backend/Dockerfile
-|4,56,20,17,1710228978,"~/backend/Dockerfile"
-'9  1  0  ~/docker-compose.yml
-|4,57,1,0,1710227698,"~/docker-compose.yml"
+'0  5  29  ~/backend-app/index.js
+|4,48,5,29,1710314086,"~/backend-app/index.js"
+'1  7  12  ~/docker-compose.yaml
+|4,49,7,12,1710313310,"~/docker-compose.yaml"
+'2  14  12  ~/docker-compose.yaml
+|4,50,14,12,1710313174,"~/docker-compose.yaml"
+'3  14  12  ~/docker-compose.yaml
+|4,51,14,12,1710313174,"~/docker-compose.yaml"
+'4  15  0  ~/docker-compose.yaml
+|4,52,15,0,1710312860,"~/docker-compose.yaml"
+'5  15  0  ~/docker-compose.yaml
+|4,53,15,0,1710312860,"~/docker-compose.yaml"
+'6  15  0  ~/docker-compose.yaml
+|4,54,15,0,1710312860,"~/docker-compose.yaml"
+'7  15  0  ~/docker-compose.yaml
+|4,55,15,0,1710312860,"~/docker-compose.yaml"
+'8  1  0  ~/docker-compose.yaml
+|4,56,1,0,1710312771,"~/docker-compose.yaml"
+'9  1  0  ~/docker-compose.yaml
+|4,57,1,0,1710312771,"~/docker-compose.yaml"
 
 # Jumplist (newest first):
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710249894,"~/backend/index.js"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710249755,"~/backend/index.js"
--'  1  0  ~/backend/package.json
-|4,39,1,0,1710249611,"~/backend/package.json"
--'  1  0  ~/backend/package.json
-|4,39,1,0,1710249611,"~/backend/package.json"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710247222,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710247222,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710247222,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710247222,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710247150,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710247150,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710247150,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710247150,"~/docker-compose.yml"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710246709,"~/backend/index.js"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710246709,"~/backend/index.js"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710246709,"~/backend/index.js"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710246709,"~/backend/index.js"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710246709,"~/backend/index.js"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710246709,"~/backend/index.js"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710246709,"~/backend/index.js"
--'  6  23  ~/backend/index.js
-|4,39,6,23,1710246709,"~/backend/index.js"
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710246661,"~/backend/index.js"
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710246661,"~/backend/index.js"
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710246661,"~/backend/index.js"
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710246661,"~/backend/index.js"
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710246661,"~/backend/index.js"
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710246661,"~/backend/index.js"
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710246661,"~/backend/index.js"
--'  14  0  ~/backend/index.js
-|4,39,14,0,1710246661,"~/backend/index.js"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710243968,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710243968,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710243968,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710243968,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710243968,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710243968,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710243968,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1710243968,"~/docker-compose.yml"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
--'  20  17  ~/backend/Dockerfile
-|4,39,20,17,1710228978,"~/backend/Dockerfile"
+-'  5  29  ~/backend-app/index.js
+|4,39,5,29,1710314086,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710314057,"~/backend-app/index.js"
+-'  7  12  ~/docker-compose.yaml
+|4,39,7,12,1710313310,"~/docker-compose.yaml"
+-'  7  12  ~/docker-compose.yaml
+|4,39,7,12,1710313310,"~/docker-compose.yaml"
+-'  14  12  ~/docker-compose.yaml
+|4,39,14,12,1710313216,"~/docker-compose.yaml"
+-'  14  12  ~/docker-compose.yaml
+|4,39,14,12,1710313216,"~/docker-compose.yaml"
+-'  14  12  ~/docker-compose.yaml
+|4,39,14,12,1710313174,"~/docker-compose.yaml"
+-'  14  12  ~/docker-compose.yaml
+|4,39,14,12,1710313174,"~/docker-compose.yaml"
+-'  15  0  ~/docker-compose.yaml
+|4,39,15,0,1710313159,"~/docker-compose.yaml"
+-'  15  0  ~/docker-compose.yaml
+|4,39,15,0,1710313159,"~/docker-compose.yaml"
+-'  15  0  ~/docker-compose.yaml
+|4,39,15,0,1710313159,"~/docker-compose.yaml"
+-'  15  0  ~/docker-compose.yaml
+|4,39,15,0,1710313159,"~/docker-compose.yaml"
+-'  15  0  ~/docker-compose.yaml
+|4,39,15,0,1710312860,"~/docker-compose.yaml"
+-'  15  0  ~/docker-compose.yaml
+|4,39,15,0,1710312860,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1710312850,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1710312850,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1710312850,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1710312850,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1710312850,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1710312850,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1710312771,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1710312771,"~/docker-compose.yaml"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  1  0  ~/frontend-app/Dockerfile
+|4,39,1,0,1710311751,"~/frontend-app/Dockerfile"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  12  0  ~/backend-app/index.js
+|4,39,12,0,1710310344,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
+-'  1  0  ~/backend-app/index.js
+|4,39,1,0,1710310329,"~/backend-app/index.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/backend-app/index.js
+	*	1710314084	0
+	"	5	29
+	^	5	30
+	.	5	29
+	+	11	3
+	+	5	29
+
+> ~/docker-compose.yaml
+	*	1710313305	0
+	"	7	12
+	^	7	13
+	.	7	12
+	+	1	400
+	+	1	52
+	+	1	292
+	+	1	652
+	+	1	308
+	+	1	12
+	+	1	145
+	+	1	0
+	+	1	389
+	+	1	14
+	+	14	92
+	+	14	12
+	+	7	12
+
+> ~/frontend-app/Dockerfile
+	*	1710311747	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	28	34
+	+	1	0
+	+	2	0
+
+> ~/backend-app/package.json
+	*	1710310307	0
+	"	10	23
+	^	10	24
+	.	11	0
+	+	12	1
+	+	11	0
+
+> ~/backend-app/Dockerfile
+	*	1710309799	0
+	"	21	0
+	^	21	0
+	.	20	24
+	+	20	24
 
 > ~/backend/index.js
 	*	1710249889	0
