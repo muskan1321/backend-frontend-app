@@ -15,3 +15,38 @@ node {
         }
     }
 }
+pipeline {
+    agent any
+    
+    stages {
+        stage('Declarative: Checkout SCM') {
+            steps {
+                checkout scm
+            }
+        }
+        
+        stage('Build') {
+            environment {
+                DOCKER_CREDENTIALS = credentials('docker-hub-credentials-id')
+            }
+            steps {
+                script {
+                    docker.build('muskan1321/backend-image', '-f backend-app/Dockerfile .')
+                }
+            }
+        }
+
+        stage('Push to Docker Hub') {
+            environment {
+                DOCKER_CREDENTIALS = credentials('docker-hub-credentials-id')
+            }
+            steps {
+                script {
+                    docker.withRegistry('https://index.docker.io/v1/', DOCKER_CREDENTIALS) {
+                        docker.image('muskan1321/backend-image').push()
+                    }
+                }
+            }
+        }
+    }
+}
