@@ -1,24 +1,16 @@
-environment {
-    DOCKER_CREDENTIALS = credentials('docker-hub-credentials-id')
-    DOCKER_IMAGE_NAME = 'muskan1321/backend-image'
-    DOCKERFILE_PATH = 'backend-app/Dockerfile'
-}
-
-stages {
-    stage('Build') {
-        steps {
-            script {
-                docker.build("${DOCKER_IMAGE_NAME}", "-f ${DOCKERFILE_PATH} .")
-            }
-        }
+node {
+    stage('Declarative: Checkout SCM') {
+        checkout scm
     }
     
-    stage('Push to Docker Hub') {
-        steps {
-            script {
-                docker.withRegistry('https://index.docker.io/v1/', "${DOCKER_CREDENTIALS}") {
-                    docker.image("${DOCKER_IMAGE_NAME}").push()
-                }
+    withCredentials([[$class: 'UsernamePasswordMultiBinding', credentialsId: 'docker-hub-credentials-id', usernameVariable: 'DOCKER_USERNAME', passwordVariable: 'DOCKER_PASSWORD']]) {
+        stage('Build') {
+            docker.build('muskan1321/backend-image', '-f backend-app/Dockerfile .')
+        }
+
+        stage('Push to Docker Hub') {
+            docker.withRegistry('https://index.docker.io/v1/', 'docker-hub-credentials-id') {
+                docker.image('muskan1321/backend-image').push()
             }
         }
     }
